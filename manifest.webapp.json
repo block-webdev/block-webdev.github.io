@@ -1,5 +1,6 @@
 {
   "name": "Telegram",
+  "description": "Telegram Web App",
   "short_name": "Telegram",
   "display": "standalone",
   "theme_color": "#497495",

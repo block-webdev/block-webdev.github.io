@@ -1,10 +1,11 @@
 {
   "name": "Telegram",
+  "description": "Telegram Web App",
   "version": "0.7.0",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Igor abc",
+    "name": "Igor Zhukov",
     "url": ""
   },
   "installs_allowed_from": [

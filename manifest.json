@@ -1,5 +1,6 @@
 {
   "name": "Telegram",
+  "description": "Telegram Web App",
   "version": "0.7.0",
   "short_name": "Telegram",
   "manifest_version": 2,
